@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/facebook project.png",
+        "description": "This is a Facebook clone made with Html and Css",
+        "skills": [
+            "Html",
+            "Css"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/MrGuka/Facebook-Clone.git"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/Html Portfolio.png",
+        "description": "This is a Portfolio created with Html and Css",
+        "skills": [
+            "Html",
+            "Css"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/MrGuka/homework3.git"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "projects/Shoe Market.png",
+        "description": "This is a Shoes Market project made with React",
+        "skills": [
+            "React"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/MrGuka/MyMarket-Clone.git"
+    }
+]
