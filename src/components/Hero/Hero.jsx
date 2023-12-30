@@ -11,7 +11,7 @@ export const Hero = () => {
                 <p className={styles.description}>
                     My Real name is Gurami Shelia I'm almost React developer Artist and more...
                 </p>
-                <a href="gurikashelia2008@gmail.com" className={styles.contactBtn}>
+                <a href="mailto:gurikashelia2008@gmail.com" className={styles.contactBtn}>
                     Contact Me
                 </a>
             </div>
